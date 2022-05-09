@@ -26,7 +26,7 @@ Here there are:
 2. Prefabs
 3. Scripts c# 
 4. GameObjects (Player, environment, enemies, waypoints)
-5. All other stuff still learning.
+5. All other stuff...
 Enjoy the game and contributing to it!
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
