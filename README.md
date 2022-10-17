@@ -30,7 +30,7 @@ Here there are:
 Enjoy the game and contributing to it!
 ```
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 👉 GAMEPLAY/SCREENSHOTS 🤳👏🧑‍💻
+## 👉 GAMEPLAY SCREENSHOTS 🤳👏🧑‍💻
 ![This is an image](Screenshot%20(103).png)
 ![This is an image](Screenshot%20(104).png)
 ![This is an image](Screenshot%20(105).png)
