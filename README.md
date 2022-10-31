@@ -1,4 +1,4 @@
-# 🧟‍♀️ Sneaky-Mansion-PC 🦉👻
+# <h1 align="center">🧟‍♀️ Sneaky-Mansion-PC 🦉👻</h1>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a PC game made with UNITY 2020.3 game engine about the player🤗 trying to sneak around a haunted mansion to avoid getting caught by ghosts💀 and gargoyles👹 hunting for your blood and soul 😈
 The Atmosphere is meant to be creepy and the environment and audio help set the tempo to terrifyingly fun.😨
