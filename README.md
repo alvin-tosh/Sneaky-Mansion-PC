@@ -1,4 +1,4 @@
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 # <h1 align="center">🧟‍♀️ Sneaky-Mansion-PC 🦉👻</h1>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 This is a PC game made with UNITY 2020.3 game engine about the player🤗 trying to sneak around a haunted mansion to avoid getting caught by ghosts💀 and gargoyles👹 hunting for your blood and soul 😈
