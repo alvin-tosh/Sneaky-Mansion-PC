@@ -38,3 +38,5 @@ Enjoy the game and contributing to it!
 ![This is an image](Screenshot%20(104).png)
 ![This is an image](Screenshot%20(105).png)
 ![This is an image](Screenshot%20(106).png)
+
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
