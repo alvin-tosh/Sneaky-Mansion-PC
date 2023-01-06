@@ -6,6 +6,8 @@ The Atmosphere is meant to be creepy and the environment and audio help set the 
 It is a single level game developed for a week during GAMEJAM week.
 Enjoy and feel free to contribute more levels, characters and mechanics.🔧⚙️🧲
 
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
+
 **PS: There is a kernel Error but since the game works perfectly and its probably a UNITY version 2020.3 bug.**
 >Kernel at index (0) is invalid 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
